@@ -1,0 +1,10 @@
+/*IDs*/
+#um{
+    text-align: center;
+}
+
+/*TAGs*/
+a{color: blue}
+a:hover{color: red}
+
+*{margin: 0}

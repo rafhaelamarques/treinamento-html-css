@@ -1,0 +1,37 @@
+/*TAGs*/
+
+body {
+    background-color: red;
+    margin: 0;
+    padding: 12px 0px;
+}
+
+header {
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+div {
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+section {
+    text-align: right;
+    padding-right: 8px;
+}
+
+/*IDs*/
+
+#position {
+    text-align: center;
+}
+
+/*Classes*/
+
+.quebra-linha {
+    display: block;
+    padding: 12px 0px;
+}
